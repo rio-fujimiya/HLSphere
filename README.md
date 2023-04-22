@@ -1,8 +1,10 @@
-# HSLsphere
+# HLSphere
 
-Mapping colors in an image to sphere in the HSL color space
+Mapping colors in an image to HSL color space sphere
 
 Retrieves the image on the clipboard.
 If not found, the latest image in the current directory is retrieved.
 
-https://user-images.githubusercontent.com/123575946/232210436-236345a0-9eeb-4905-8024-f761423e9bc3.mp4
+Runs on python3
+
+<img width="640" alt="HLSphere" src="https://user-images.githubusercontent.com/123575946/233787377-b1522e16-d8d4-4b83-98b0-993dda6091ed.png">
