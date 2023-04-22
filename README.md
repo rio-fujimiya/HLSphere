@@ -1,6 +1,6 @@
 # HLSphere
 
-Mapping colors in an image to HSL color space sphere
+Mapping colors in an image to HLS color space sphere
 
 Retrieves the image on the clipboard.
 If not found, the latest image in the current directory is retrieved.
